@@ -22,4 +22,4 @@ I'm Roberto and I'm currently working as Senior Software Engineer at Red Hat.
 ![Maven](https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rgdoliveira&theme=dark&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=rgdoliveira)
+![](https://github-readme-stats.vercel.app/api?username=rgdoliveira&include_all_commits=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=rgdoliveira)
